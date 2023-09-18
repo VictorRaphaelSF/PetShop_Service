@@ -1,0 +1,120 @@
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\PetShopNV.exe.config
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\PetShopNV.exe
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\PetShopNV.pdb
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\Google.Protobuf.dll
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\Guna.UI2.dll
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\K4os.Compression.LZ4.dll
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\K4os.Compression.LZ4.Streams.dll
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\K4os.Hash.xxHash.dll
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\MySql.Data.dll
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\System.Buffers.dll
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\System.Memory.dll
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\System.Numerics.Vectors.dll
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\Ubiety.Dns.Core.dll
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\ZstdNet.dll
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\BouncyCastle.Crypto.xml
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\Google.Protobuf.pdb
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\Google.Protobuf.xml
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\K4os.Compression.LZ4.xml
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\K4os.Compression.LZ4.Streams.xml
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\K4os.Hash.xxHash.xml
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\MySql.Data.xml
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\System.Buffers.xml
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\System.Memory.xml
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\System.Numerics.Vectors.xml
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Form1.resources
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Properties.Resources.resources
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\obj\Debug\PetShopNV.csproj.GenerateResource.cache
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\obj\Debug\PetShopNV.csproj.CoreCompileInputs.cache
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\obj\Debug\PetShopNV.csproj.CopyComplete
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\obj\Debug\PetShopNV.exe
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\obj\Debug\PetShopNV.pdb
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Logado.resources
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Cad_cliente.resources
+c:\users\marcu\source\repos\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Localizar.resources
+C:\Users\marcu\source\repos\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Agendar.resources
+C:\Users\marcu\source\repos\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Cad_pet.resources
+C:\Users\marcu\source\repos\PetShopNV\PetShopNV\obj\Debug\PetShopNV.csprojAssemblyReference.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\PetShopNV.exe.config
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\PetShopNV.exe
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\PetShopNV.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\Google.Protobuf.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\Guna.UI2.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\MySql.Data.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\System.Buffers.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\System.Memory.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\ZstdNet.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\Google.Protobuf.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\Google.Protobuf.xml
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\MySql.Data.xml
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\System.Buffers.xml
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\System.Memory.xml
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Agenda.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Cad_cliente.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Cad_pet.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Form1.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Localizar.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Logado.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\obj\Debug\PetShopNV.Properties.Resources.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\obj\Debug\PetShopNV.csproj.GenerateResource.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\obj\Debug\PetShopNV.csproj.CoreCompileInputs.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\obj\Debug\PetShopNV.csproj.CopyComplete
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\obj\Debug\PetShopNV.exe
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\obj\Debug\PetShopNV.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\PetShopCãoAmg\PetShopNV\PetShopNV\obj\Debug\PetShopNV.csprojAssemblyReference.cache
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\PetShopNV.exe.config
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\PetShopNV.exe
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\PetShopNV.pdb
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\Google.Protobuf.dll
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\Guna.UI2.dll
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\MySql.Data.dll
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\System.Buffers.dll
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\System.Memory.dll
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\ZstdNet.dll
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\Google.Protobuf.pdb
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\Google.Protobuf.xml
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\MySql.Data.xml
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\System.Buffers.xml
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\System.Memory.xml
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\obj\Debug\PetShopNV.csproj.AssemblyReference.cache
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\obj\Debug\PetShopNV.Agenda.resources
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\obj\Debug\PetShopNV.Cad_cliente.resources
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\obj\Debug\PetShopNV.Cad_pet.resources
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\obj\Debug\PetShopNV.Form1.resources
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\obj\Debug\PetShopNV.Localizar.resources
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\obj\Debug\PetShopNV.Logado.resources
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\obj\Debug\PetShopNV.Properties.Resources.resources
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\obj\Debug\PetShopNV.csproj.GenerateResource.cache
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\obj\Debug\PetShopNV.csproj.CoreCompileInputs.cache
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\obj\Debug\PetShopNV.csproj.CopyComplete
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\obj\Debug\PetShopNV.exe
+C:\Users\train\OneDrive\Área de Trabalho\CãoAmg\PetShopNV(FINALIZADO)\PetShopNV\obj\Debug\PetShopNV.pdb
