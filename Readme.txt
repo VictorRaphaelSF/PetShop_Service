@@ -1,0 +1,1 @@
+Access "MySQL Workbench 8.0 CE" and start the database.
