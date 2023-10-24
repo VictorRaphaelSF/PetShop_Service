@@ -1,4 +1,4 @@
-CREATE DATABASE db_petshop character set='UTF8' collate='UTF8_general_ci';
+CREATE DATABASE db_petshop;
 
 USE db_petshop;
 
